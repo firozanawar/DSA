@@ -8,10 +8,11 @@ public class Main {
         System.out.println("Hello World !!");
 
         // Getting input from the command line while the program.
-        //System.out.println(args[0]); // -> This will print whatever input passed
+        //System.out.println(args[0]); // -> This will print whatever input passed in java Main 1 2
 
-        // Getting the input from command line after running of program
+        // Getting the input from command line after program running
         Scanner input = new Scanner(System.in);
+        int var = input.nextInt();
         float var1 = input.nextInt();
         System.out.println(var1);
     }
