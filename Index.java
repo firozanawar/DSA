@@ -1,8 +1,8 @@
-package java_basics;
-
-public class Syllabus {
+public class Index {
 
     /**
+     * [Topic : java_basics ]
+     *
      * 1. Main
      * 2. TypeCostingConversion
      * 3. TempratureCtoF
@@ -14,5 +14,9 @@ public class Syllabus {
      * 9. ArmstrongNumber
      * 10. ArraysAnd2D
      * 11. ArrayListExample
+     */
+
+    /**
+     * [Topic : arrays ]
      */
 }
