@@ -6,8 +6,8 @@ public class TypeCostingConversion {
 
         /**
          * Rule of conversion rule:
-         *  Conversion is possible only if both are compatible like int and float.
-         *  If destination is greater than source space
+         *  1. Conversion is possible only if both are compatible like int and float.
+         *  2. If destination is greater than source space
          *
          * Rule of promotion rule:
          *  All byte, short, char values are promoted into integer value
