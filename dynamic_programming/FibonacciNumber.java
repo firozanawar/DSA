@@ -18,7 +18,7 @@ public class FibonacciNumber {
     private static int nthFibo(int n,HashMap<Integer,Integer> memo){
 
         if(n == 0) return 0; // f(0) -> 0
-        if(n == 1) return 1;  // f(0) -> 1
+        if(n == 1) return 1;  // f(1) -> 1
 
         // Param getting changing
         int currentkey = n;
