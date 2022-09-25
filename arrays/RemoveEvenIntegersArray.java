@@ -1,5 +1,8 @@
 package arrays;
 
+/**
+ * Q : https://www.youtube.com/watch?v=5rWEio2KoZM&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&index=71
+ */
 public class RemoveEvenIntegersArray {
 
     public static void main(String[] args) {
